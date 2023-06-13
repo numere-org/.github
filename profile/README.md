@@ -13,11 +13,14 @@ We're gratefully help you out in any issues. If you need urgent support or want 
 ## Take a glimpse into NumeRe
 We gathered some screen shots to give you a quick impression on how NumeRe looks like and what it's able to do for you. Note that although the UI language is *German* in these images, NumeRe is also available in *English*.
 
-![numere-session-screen](https://github.com/numere-org/.github/assets/87755490/dd32a506-812f-4802-9075-df6229530e78) This is, how a session might typically look like.
+This is, how a session might typically look like:
+![numere-session-screen](https://github.com/numere-org/.github/assets/87755490/dd32a506-812f-4802-9075-df6229530e78) 
 
-![numere-documentation](https://github.com/numere-org/.github/assets/87755490/0865697d-884b-4058-9418-610fb23a5a75) We have a huge embedded documentation in multiple languages.
+We have a huge embedded documentation in multiple languages:
+![numere-documentation](https://github.com/numere-org/.github/assets/87755490/0865697d-884b-4058-9418-610fb23a5a75) 
 
-![numere-fractal](https://github.com/numere-org/.github/assets/87755490/1d5138be-feb4-47dc-a83a-1137ce1b457a) Some Mandelbrot, anyone?
+Some Mandelbrot, anyone?
+![numere-fractal](https://github.com/numere-org/.github/assets/87755490/1d5138be-feb4-47dc-a83a-1137ce1b457a) 
 
 <!--
 
