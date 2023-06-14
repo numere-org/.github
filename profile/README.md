@@ -10,6 +10,9 @@ We're the root organisation for **NumeRe: Framework für Numerische Rechnungen**
 
 We're gratefully help you out in any issues. If you need urgent support or want to discuss something, we have a [Discord server](https://discord.gg/s5tSjwU) available, where you might reach out for help. It you want to propose a change in the application, please file us an issue in our [main repository](https://github.com/numere-org/NumeRe/issues).
 
+## Get it from our SourceForge mirror
+[![SourceForge mirror](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/numere/files/latest/download/)
+
 ## Take a glimpse into NumeRe
 We gathered some screen shots to give you a quick impression on how NumeRe looks like and what it's able to do for you. Note that although the UI language is *German* in these images, NumeRe is also available in *English*.
 
