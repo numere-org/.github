@@ -4,7 +4,7 @@
 
 ## About NumeRe.org
 
-We're the root organisation for **NumeRe: Framework für Numerische Rechnungen**. We're developing this application since 2013 (using a public SCM since 2016) with you and for you. Feel free to file us any ideas for or challenges with NumeRe using the issues section in our pinned [main repository](https://github.com/numere-org/NumeRe/issues).
+We're the root organisation for **NumeRe: Framework for Numerical Calculations**. We're developing this application since 2013 (using a public SCM since 2016) with you and for you. Feel free to file us any ideas for or challenges with NumeRe using the issues section in our pinned [main repository](https://github.com/numere-org/NumeRe/issues).
 
 ## Need support?
 
