@@ -13,6 +13,8 @@ We're gratefully help you out in any issues. If you need urgent support or want 
 ## Get it from our SourceForge mirror
 [![SourceForge mirror](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/numere/files/latest/download/)
 
+<img src="https://sourceforge.net/cdn/syndication/badge_img/2548459/oss-community-choice-black" width="200px" />
+
 ## Take a glimpse into NumeRe
 We gathered some screen shots to give you a quick impression on how NumeRe looks like and what it's able to do for you. Note that although the UI language is *German* in these images, NumeRe is also available in *English*.
 
