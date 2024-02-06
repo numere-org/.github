@@ -6,6 +6,8 @@
 
 We're the root organisation for **NumeRe: Framework for Numerical Calculations**. We're developing this application since 2013 (using a public SCM since 2016) with you and for you. Feel free to file us any ideas for or challenges with NumeRe using the issues section in our pinned [main repository](https://github.com/numere-org/NumeRe/issues).
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/numere)
+
 ## Need support?
 
 We're gratefully help you out in any issues. If you need urgent support or want to discuss something, we have a [Discord server](https://discord.gg/s5tSjwU) available, where you might reach out for help. It you want to propose a change in the application, please file us an issue in our [main repository](https://github.com/numere-org/NumeRe/issues).
